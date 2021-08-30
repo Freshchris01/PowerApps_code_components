@@ -1,5 +1,6 @@
 # PowerApps Code Components
 This repository showcases PowerApps code components. In this case, components created with React & TypeScript.
+The general concept is that you can create components (separat projects) which are bundled as solutions which can be imported to your Power Platform environments. Part of this repository is a prepared solution with one plain React component & one sample Todo app component.
 
 ## Requirements
 * Node.js (latest LTS version 14.X) to develop React components
@@ -20,3 +21,4 @@ This repository showcases PowerApps code components. In this case, components cr
 * [Update or upgrade a solution](https://docs.microsoft.com/en-us/powerapps/maker/data-platform/update-solutions)
 * [Power Platform CLI documentation](https://docs.microsoft.com/en-us/powerapps/developer/data-platform/powerapps-cli)
 * [Create new component & add it to current solution](https://docs.microsoft.com/en-us/powerapps/developer/component-framework/implementing-controls-using-typescript#creating-a-new-component-project)
+* [Limitations of code components](https://docs.microsoft.com/en-us/powerapps/developer/component-framework/limitations)
