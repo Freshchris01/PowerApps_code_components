@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest>
+  <control namespace="MyComponents" constructor="MyReactComponent" version="0.0.2" display-name-key="MyReactComponent" description-key="MyReactComponent description" control-type="standard">
+    <property name="sampleProperty" display-name-key="Property_Display_Key" description-key="Property_Desc_Key" of-type="Whole.None" usage="bound" required="true" />
+    <resources>
+      <code path="index.ts" order="1" />
+      <css path="css/MyReactComponent.css" order="1" />
+    </resources>
+  </control>
+</manifest>
